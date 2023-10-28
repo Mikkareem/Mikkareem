@@ -11,6 +11,7 @@ I am a Software Developer who can build full stack web and mobile applications, 
 * ✉️  You can contact me at [mohdirsath1997@gmail.com](mailto:mohdirsath1997@gmail.com)
 * 🧠  I'm learning Kotlin Multiplatform Mobile
 * 🤝  I'm open to collaborating on Interesting Projects
+* 💜  I Love **Jetpack Compose** for building UIs using Kotlin
 
 ### Skills
 
