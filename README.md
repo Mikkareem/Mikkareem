@@ -7,7 +7,7 @@ Full Stack Web and Mobile App Developer
 I am a Software Developer who can build full stack web and mobile applications, and passionate about building Full Stack Applications in both Web and Android
 
 * 🌍  I'm based in Chennai, India
-* 🖥️  See my portfolio at [My Portfolio](http://portfolio.com)
+<!--- * 🖥️  See my portfolio at [My Portfolio](http://portfolio.com) -->
 * ✉️  You can contact me at [mohdirsath1997@gmail.com](mailto:mohdirsath1997@gmail.com)
 * 🧠  I'm learning Kotlin Multiplatform Mobile
 * 🤝  I'm open to collaborating on Interesting Projects
