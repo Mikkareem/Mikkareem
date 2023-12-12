@@ -177,5 +177,6 @@ I am a Software Developer who can build full stack web and mobile applications, 
 
 - **Ruper Landing Page** --- [Code](https://github.com/Mikkareem/ruper-landing-page) --- [Website](https://mikkareem.github.io/ruper-landing-page/)  
     - ReactJS.
+    - Typescript
     - Responsive Design.
     - Styled Components.
