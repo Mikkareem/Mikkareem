@@ -47,7 +47,7 @@ I am a Software Developer who can build full stack web and mobile applications, 
 
 ## Projects
 
-- **Sudoku Game/Solver** --- [Code]()  
+- **Sudoku Game/Solver** --- [Code](https://github.com/Mikkareem/sudoku-app)  
     - Android App.
     - Kotlin.
     - Jetpack Compose.
@@ -55,7 +55,7 @@ I am a Software Developer who can build full stack web and mobile applications, 
     - Kotlin Flows/Coroutines.
     - MVVM Architecture.
 
-- **Countries Info App** --- [Code]()  
+- **Countries Info App** --- [Code](https://github.com/Mikkareem/countries-info-app-kmm-compose)  
     - Rest Contries Api
     - Compose Multiplatform
     - Android & IOS
@@ -65,7 +65,7 @@ I am a Software Developer who can build full stack web and mobile applications, 
     - Kotlinx Serialization  
     - MVI Architecture.  
 
-- **Birds Info App** --- [Code]()  
+- **Birds Info App** --- [Code](https://github.com/Mikkareem/birds-app-kmm-compose)  
     - Nuthatch Api.
     - Compose Multiplatform.
     - Android & IOS.
@@ -75,7 +75,7 @@ I am a Software Developer who can build full stack web and mobile applications, 
     - Kotlinx Serialization.  
     - MVI Architecture.  
 
-- **Movies Info App** --- [Code]()  
+- **Movies Info App** --- [Code](https://github.com/Mikkareem/movie-info-kmm)  
     - TMDB Api
     - Kotlin Multiplatform.
     - Jetpack Compose for Android.
@@ -86,7 +86,7 @@ I am a Software Developer who can build full stack web and mobile applications, 
     - NavigationStacks for IOS.
     - MVVM Architecture.  
     
-- **Tuition Tracker App** --- [Code]()
+- **Tuition Tracker App** --- [Code](https://github.com/Mikkareem/tuition-tracker-kmm)
     - Kotlin Multiplatform.
     - Jetpack Compose for Android.
     - SwiftUI for IOS.
@@ -96,7 +96,7 @@ I am a Software Developer who can build full stack web and mobile applications, 
     - NavigationStacks for IOS.
     - MVVM Architecture.  
 
-- **Poll/Survey Android App** --- [Code]()  
+- **Poll/Survey Android App** --- [Code](https://github.com/Mikkareem/poll-app)  
     - Kotlin.
     - Jetpack Compose.
     - KTOR Client.
@@ -104,14 +104,14 @@ I am a Software Developer who can build full stack web and mobile applications, 
     - MVVM Architecture.
     - Uses our own Api.
 
-- **Poll App REST Api** --- [Code]()
+- **Poll App REST Api** --- [Code](https://github.com/Mikkareem/poll-app-ktor-server)
     - KTOR Server.
     - Authentication & Authorization
     - H2 Database.
     - Exposed ORM Framework.
     - Handful of Endpoints to make CRUD Operations on Polls.
 
-- **Movie Ticket Booking App** --- [Code]()
+- **Movie Ticket Booking App** --- [Code](https://github.com/Mikkareem/movie-ticket-booking-android-app)
     - Kotlin.
     - Jetpack Compose.
     - Custom Seat Selection View Drawing in Compose.
@@ -120,7 +120,7 @@ I am a Software Developer who can build full stack web and mobile applications, 
     - MVVM Architecture.
     - Uses our own Api.
 
-- **Movie Ticket Booking REST Api** -- [Code]()  
+- **Movie Ticket Booking REST Api** -- [Code](https://github.com/Mikkareem/movie-ticket-booking-api)  
     - KTOR Server.
     - Authentication & Authorization
     - H2/MySQL Database.
@@ -129,7 +129,7 @@ I am a Software Developer who can build full stack web and mobile applications, 
     - Fake Payment (Not yet done).
     - Just a clone of Paytm Movie Ticket booking module/section.  
 
-- **Music Player Android App** --- [Code]()  
+- **Music Player Android App** --- [Code](https://github.com/Mikkareem/music-player-media3)  
     - Kotlin.
     - Jetpack Compose.
     - Jetpack Media3 Api.
@@ -140,23 +140,23 @@ I am a Software Developer who can build full stack web and mobile applications, 
     - Foreground Services.
     - MVVM Architecture.  
 
-- **OImage Editor Android App** --- [Code]()
+- **OImage Editor Android App** --- [Code](https://github.com/Mikkareem/OImageEditor)
     - Kotlin.
     - Jetpack Compose.
     - Custom Drawing of Cropper Box.
     - Crop & Preview & Save to Shared Storage.
 
-- **QRcode Reader Android App** --- [Code]()
+- **QRcode Reader Android App** --- [Code](https://github.com/Mikkareem/qr-code-scanner-app)
     - Kotlin.
     - Jetpack Compose.
     - CameraX.
     - MLKit for QRcode Scanning.
 
-- **TicTacToe Online Game** --- [Code]() --- [Website]()  
+- **TicTacToe Online Game** --- [Code](https://github.com/Mikkareem/tictactoe-react) --- [Website](https://mikkareem.github.io/tictactoe-react/)  
     - ReactJS.
     - Responsive Design.
 
-- **Path Searcher** --- [Code]() --- [Website]()  
+- **Path Searcher** --- [Code](https://github.com/Mikkareem/Path-Searcher/tree/master) --- [Website](https://mikkareem.github.io/Path-Searcher/)  
     - ReactJS.
     - Visualization Tool for Major Graph Algorighms.
     - Dijkshtra Algorithm.
@@ -164,7 +164,7 @@ I am a Software Developer who can build full stack web and mobile applications, 
     - Depth First Search Algorithm.
     - Random Maze Generation.  
 
-- **Sorting Visualizer** --- [Code]() --- [Website]()
+- **Sorting Visualizer** --- [Code](https://github.com/Mikkareem/sorting-visualizer-2) --- [Website](https://mikkareem.github.io/sorting-visualizer-2/)
     - ReactJS.
     - Responsive Design.
     - Visualization Tool for Major Sorting Algorighms.
@@ -175,7 +175,7 @@ I am a Software Developer who can build full stack web and mobile applications, 
     - Insertion Sort Algorithm.
     - Selection Sort Algorithm.  
 
-- **Ruper Landing Page** --- [Code]() --- [Website]()  
+- **Ruper Landing Page** --- [Code](https://github.com/Mikkareem/ruper-landing-page) --- [Website](https://mikkareem.github.io/ruper-landing-page/)  
     - ReactJS.
     - Responsive Design.
     - Styled Components.
