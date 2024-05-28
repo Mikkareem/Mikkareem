@@ -44,6 +44,7 @@ I am a Software Developer who can build full stack web and mobile applications, 
 - Instagram Post UI [Code & Demo](https://gist.github.com/Mikkareem/b783efd34c7fe3bd28aeb447ac6023ff)
 - Instagram Profile Screen [Code & Demo](https://gist.github.com/Mikkareem/a0df7c2ed5ee5dcda4a42786beecf287)
 - Spotify UI [Code & Demo](https://gist.github.com/Mikkareem/1995b7467d65e9da79e91fa35d3627df)
+- Kanban Board View [Demo](https://www.linkedin.com/posts/mohamed-irsath-kareem_android-androidstudio-jetpackcompose-activity-7201061412167688192-u1LL?utm_source=share&utm_medium=member_desktop)
 
 
 ## Projects
