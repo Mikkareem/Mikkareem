@@ -9,10 +9,9 @@ I am a Software Developer who can build full stack web and mobile applications, 
 * 🌍  I'm based in Chennai, India
 <!--- * 🖥️  See my portfolio at [My Portfolio](http://portfolio.com) -->
 * ✉️  You can contact me at [mohdirsath1997@gmail.com](mailto:mohdirsath1997@gmail.com)
-* 🧠  I'm learning Kotlin Multiplatform Mobile
 * 🤝  I'm open to collaborating on Interesting Projects
 * 💜  I Love **Jetpack Compose** for building UIs using Kotlin
-* You can see my Updated Resume [here](https://docs.google.com/document/d/1_j92dD8u2UDjWneqmVIcOLfYeAf226FN3YECBLDrdzM/edit?usp=sharing)
+<!--- * You can see my Updated Resume [here](https://docs.google.com/document/d/1_j92dD8u2UDjWneqmVIcOLfYeAf226FN3YECBLDrdzM/edit?usp=sharing) -->
 
 ### Skills
 
