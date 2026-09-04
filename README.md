@@ -248,8 +248,9 @@ https://github.com/user-attachments/assets/883baf00-c595-4289-b7f0-aee30bfaf46b
 ---
 
 #### - Kanban Board View 
-[Demo](https://www.linkedin.com/posts/mohamed-irsath-kareem_android-androidstudio-jetpackcompose-activity-7201061412167688192-u1LL?utm_source=share&utm_medium=member_desktop)
+[Source Code & Demo](https://github.com/Mikkareem/tasks-kanban-app)
 
+https://github.com/user-attachments/assets/6dde4d92-5175-420a-b989-08b423de4165
 
 ---
 
