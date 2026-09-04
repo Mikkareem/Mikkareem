@@ -209,6 +209,8 @@ https://github.com/user-attachments/assets/afb94703-2806-481f-9f91-2abeb3119b9f
 #### - Food Delivery App UI 
 [Gist Link](https://gist.github.com/Mikkareem/62f431f34174c1e20cc5e6addeb54586)
 
+https://github.com/user-attachments/assets/0cd1dc83-2c1a-45fe-b7ed-7379c887267e
+
 ---
 
 #### - Chat app UI with typing indications 
