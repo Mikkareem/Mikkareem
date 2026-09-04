@@ -102,21 +102,24 @@ https://user-images.githubusercontent.com/56153409/285583440-2e7061ac-5b7a-49c6-
 #### - Smoke Particles Effect 
 [Gist Link](https://gist.github.com/Mikkareem/f834aae3be19dcdabae37f31a186d224)
 
-https://gist.github.com/assets/56153409/2b64711d-7ed0-4e30-928d-88e28f786f9c
+<!-- https://gist.github.com/assets/56153409/2b64711d-7ed0-4e30-928d-88e28f786f9c -->
+https://github.com/user-attachments/assets/e570785f-6de7-456b-99ab-27c4a5c6f949
 
 ---
 
 #### - Random Movers Effect 
 [Gist Link](https://gist.github.com/Mikkareem/3cb6a1fa91d476a2b6016ed8e9c768c5)
 
-https://gist.github.com/assets/56153409/07b89a19-1c8f-4ceb-b826-c61e4919c8de
+<!-- https://gist.github.com/assets/56153409/07b89a19-1c8f-4ceb-b826-c61e4919c8de -->
+https://github.com/user-attachments/assets/37ad78e5-a303-45e2-bc71-9a3f5859bae2
 
 ---
 
 #### - Gesture Indication Particles Effect 
 [Gist Link](https://gist.github.com/Mikkareem/e7c8b2bddb6f2af333c9fa244832ee00)
 
-https://gist.github.com/assets/56153409/fc79540b-3d89-4087-82c1-ad32086a1b31
+<!-- https://gist.github.com/assets/56153409/fc79540b-3d89-4087-82c1-ad32086a1b31 -->
+https://github.com/user-attachments/assets/d22ffadc-fbb8-4377-8140-e7779a9b1588
 
 ---
 
@@ -130,7 +133,8 @@ https://user-images.githubusercontent.com/56153409/285597968-c9b1b4aa-42c7-4ba6-
 #### - Oscillating Heart Animation 
 [Gist Link](https://gist.github.com/Mikkareem/afeb78254b89db20404efbd93c1d291f)
 
-https://gist.github.com/assets/56153409/2f756db3-dcca-4194-bae3-2010e96d0b2c
+<!-- https://gist.github.com/assets/56153409/2f756db3-dcca-4194-bae3-2010e96d0b2c -->
+https://github.com/user-attachments/assets/8d6c112f-d886-4943-a97c-60cdb3e675f9
 
 ---
 
@@ -153,7 +157,8 @@ https://user-images.githubusercontent.com/56153409/278870766-6dbfbfdc-4064-49d8-
 #### - Star Rating Fill Animation 
 [Gist Link](https://gist.github.com/Mikkareem/c17e9388ea92784c730f52ae944f4510)
 
-https://gist.github.com/assets/56153409/22460e20-7a48-4c92-b8ce-33cf48fc6f82
+<!-- https://gist.github.com/assets/56153409/22460e20-7a48-4c92-b8ce-33cf48fc6f82 -->
+https://github.com/user-attachments/assets/534bb534-1f82-4e92-804c-e00e2ccabc09
 
 ---
 
@@ -167,7 +172,8 @@ https://gist.github.com/assets/56153409/22460e20-7a48-4c92-b8ce-33cf48fc6f82
 #### - Expandable Menu Animation 
 [Gist Link](https://gist.github.com/Mikkareem/05874502ec6e922744827d9a6cd02ebe)
 
-https://gist.github.com/assets/56153409/ee879c3a-8b9f-431e-80a8-e4bee24d4ec0
+<!-- https://gist.github.com/assets/56153409/ee879c3a-8b9f-431e-80a8-e4bee24d4ec0 -->
+https://github.com/user-attachments/assets/896addd1-23b7-41fc-b6b1-ccc1e9fee379
 
 ---
 
@@ -195,7 +201,8 @@ https://user-images.githubusercontent.com/56153409/279030620-1cd652f2-ea89-4e40-
 #### - Custom Gradient TextField 
 [Gist Link](https://gist.github.com/Mikkareem/ae06599b968720b8320d435dbda71080)
 
-https://gist.github.com/assets/56153409/9a524900-e102-4b86-8c3d-fa49830e066b
+<!-- https://gist.github.com/assets/56153409/9a524900-e102-4b86-8c3d-fa49830e066b -->
+https://github.com/user-attachments/assets/afb94703-2806-481f-9f91-2abeb3119b9f
 
 ---
 
@@ -207,7 +214,8 @@ https://gist.github.com/assets/56153409/9a524900-e102-4b86-8c3d-fa49830e066b
 #### - Chat app UI with typing indications 
 [Gist Link](https://gist.github.com/Mikkareem/8a58bc9a3a5518ff0c612395d90206e5)  
 
-https://gist.github.com/assets/56153409/5b697ad6-fcae-4eef-a29e-07cd37a803a3
+<!-- https://gist.github.com/assets/56153409/5b697ad6-fcae-4eef-a29e-07cd37a803a3 -->
+https://github.com/user-attachments/assets/883baf00-c595-4289-b7f0-aee30bfaf46b
 
 ---
 
