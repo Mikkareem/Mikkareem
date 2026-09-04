@@ -1,8 +1,10 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) from        [Scroll Below for full Details] 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) from 
 # Mohamed Irsath Kareem
 
 ### Full Stack (Web & Mobile) Application Developer
+
+**[SCROLL BELOW FOR FULL DETAILS]**
 ---
 
 I'm a **Full Stack Developer** passionate about building modern, scalable, and user-friendly applications for **Web and Mobile**.
